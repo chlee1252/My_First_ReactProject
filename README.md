@@ -1,3 +1,6 @@
+# React Test 1
+This is my first practice for React project
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
